@@ -1,0 +1,7 @@
+C:\Users\isaac\source\repos\EvaluationTest\bin\Debug\EvaluationTest.exe.config
+C:\Users\isaac\source\repos\EvaluationTest\bin\Debug\EvaluationTest.exe
+C:\Users\isaac\source\repos\EvaluationTest\bin\Debug\EvaluationTest.pdb
+C:\Users\isaac\source\repos\EvaluationTest\obj\Debug\EvaluationTest.csprojAssemblyReference.cache
+C:\Users\isaac\source\repos\EvaluationTest\obj\Debug\EvaluationTest.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\EvaluationTest\obj\Debug\EvaluationTest.exe
+C:\Users\isaac\source\repos\EvaluationTest\obj\Debug\EvaluationTest.pdb
